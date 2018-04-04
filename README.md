@@ -1,5 +1,7 @@
 # README
 
+I forgot to edit this and make it my own huehue
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
