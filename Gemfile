@@ -7,6 +7,8 @@ source 'https://rubygems.org'
 # version of the gem installed. Explanation on the two symbols can be found here:
 # Below listing 1.4 at https://www.railstutorial.org/book/beginning
 
+#so if I change something here
+
 gem 'rails',        '5.1.4'
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
